@@ -4,4 +4,6 @@
   align-items: center;
 }
 
-.board-container;
+.board-container {
+  margin: 20px;
+}
