@@ -1,6 +1,8 @@
 import Square from "./Square"
 
 const Board = () => {
+
+    
     return (
         <div className="board-container">
             <div className="board-row">
